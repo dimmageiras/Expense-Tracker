@@ -1,0 +1,26 @@
+:local {
+	.expensesFilter {
+		color: #fff;
+		padding: 0 1rem;
+
+		.control {
+			align-items: center;
+			display: flex;
+			justify-content: space-between;
+			margin: 1rem 0;
+			width: 100%;
+
+			.label {
+				font-weight: bold;
+				margin-bottom: 0.5rem;
+			}
+
+			.select {
+				border-radius: 6px;
+				font-weight: bold;
+				font: inherit;
+				padding: 0.5rem 3rem;
+			}
+		}
+	}
+}

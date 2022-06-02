@@ -1,0 +1,26 @@
+:local {
+	.btn {
+		background-color: #40005d;
+		border: 1px solid #40005d;
+		border-radius: 12px;
+		box-shadow: 0 0 5px #000;
+		color: #fff;
+		cursor: pointer;
+		font: inherit;
+		padding: 1rem 2rem;
+		transition: 0.4s all;
+
+		&:active,
+		&:focus,
+		&:hover {
+			background-color: #510674;
+			border-color: #510674;
+			box-shadow: 0 0 2.5px #000;
+			transform: scale(0.95);
+		}
+
+		&:focus {
+			outline: none;
+		}
+	}
+}

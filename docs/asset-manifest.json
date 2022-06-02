@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.539574fa.css",
+    "main.js": "./static/js/main.916a6766.js",
+    "static/media/calendar_events_schedule_icon.svg": "./static/media/calendar_events_schedule_icon.96c88f897fe93f1aa03c.svg",
+    "index.html": "./index.html",
+    "main.539574fa.css.map": "./static/css/main.539574fa.css.map",
+    "main.916a6766.js.map": "./static/js/main.916a6766.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539574fa.css",
+    "static/js/main.916a6766.js"
+  ]
+}

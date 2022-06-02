@@ -1,0 +1,28 @@
+:local {
+	.date {
+		align-items: center;
+		background-color: #2a2a2a;
+		border: 1px solid #ececec;
+		border-radius: 12px;
+		color: #fff;
+		display: flex;
+		flex-direction: column;
+		height: 5.5rem;
+		justify-content: center;
+		width: 5.5rem;
+
+		.month {
+			font-size: 0.75rem;
+			font-weight: bold;
+		}
+
+		.year {
+			font-size: 0.75rem;
+		}
+
+		.day {
+			font-size: 1.5rem;
+			font-weight: bold;
+		}
+	}
+}
