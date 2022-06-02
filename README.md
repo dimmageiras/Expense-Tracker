@@ -4,7 +4,7 @@ This is a project from the [React - The Complete Guide (incl Hooks, React Router
 
 ## Live demo
 
-- Check out the live [example](https://dimmageiras.github.io/expense-tracker/).
+- Check out the live [example](https://dimmageiras.github.io/Expense-Tracker/).
 
 ## Main changes that I incorporated
 
