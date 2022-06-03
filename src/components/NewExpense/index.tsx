@@ -7,7 +7,7 @@ import styles from "./NewExpense.module.scss";
 const NewExpense = ({handleAddNewExpense}: NewExpenseProps) => {
 	const [showForm, setShowForm] = useState(false);
 	const showHideForm = () => {
-		setShowForm(prevValue => !prevValue);
+		setShowForm(!showForm);
 	};
 	return (
 		<>
